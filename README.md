@@ -1,1 +1,1 @@
-# intro-to-javascript-functions-lab
+# dom-events-lab
